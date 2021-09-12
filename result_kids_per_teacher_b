@@ -1,0 +1,25 @@
+Typ gminy,Nazwa typu,min,max,mean
+Gm,Czteroletnie liceum plastyczne,3,4,4
+Gm,Gimnazjum,0,16,1
+Gm,Liceum ogólnokształcące,0,160,2
+Gm,Przedszkole,0,72,6
+Gm,Punkt przedszkolny,0,32,10
+Gm,Sześcioletnia szkoła muzyczna I stopnia,0,20,5
+Gm,Szkoła podstawowa,0,37,5
+Gm,Technikum,0,46,0
+M,Czteroletnie liceum plastyczne,0,5,1
+M,Gimnazjum,0,141,1
+M,Liceum ogólnokształcące,0,222,7
+M,Przedszkole,0,141,8
+M,Punkt przedszkolny,0,30,6
+M,Sześcioletnia szkoła muzyczna I stopnia,0,51,4
+M,Szkoła podstawowa,0,124,6
+M,Technikum,0,35,1
+M-Gm,Czteroletnie liceum plastyczne,0,4,2
+M-Gm,Gimnazjum,0,11,1
+M-Gm,Liceum ogólnokształcące,0,106,2
+M-Gm,Przedszkole,0,99,7
+M-Gm,Punkt przedszkolny,0,36,9
+M-Gm,Sześcioletnia szkoła muzyczna I stopnia,0,33,5
+M-Gm,Szkoła podstawowa,0,73,5
+M-Gm,Technikum,0,88,0
